@@ -205,6 +205,7 @@
     <Content Include="images\service_4.png" />
     <Content Include="images\service_5.png" />
     <Content Include="images\service_6.png" />
+    <Content Include="images\smartrentals.png" />
     <Content Include="images\testimonials.jpg" />
     <Content Include="images\video.jpg" />
     <Content Include="js\about.js" />
