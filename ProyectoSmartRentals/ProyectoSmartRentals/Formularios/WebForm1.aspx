@@ -473,11 +473,13 @@
         <br />
 		<br />
 		<br />
-
+		<div style="">
         <iframe
-            allow="microphone"
+           <%-- allow="microphone"--%>
+			
             width="350"
             height="430"
             src="https://console.dialogflow.com/api-client/demo/embedded/62873c0e-bd0b-44bc-8eb2-4418151599e1"></iframe>
 	</div>
+		</div>
 </asp:Content>
